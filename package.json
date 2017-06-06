@@ -1,0 +1,30 @@
+{
+  "name": "array-dedupe",
+  "version": "1.0.0",
+  "description": "remove duplicate items from an array of objects",
+  "license": "MIT",
+  "repository": "hanford/array-dedupe",
+  "author": {
+    "name": "Jack Hanford",
+    "email": "jackhanford@gmail.com",
+    "url": "jackhanford.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "duplicate",
+    "de-dupe",
+    "remove",
+    "filter"
+  ],
+  "dependencies": {
+    "array-find-index": "~1.0.2"
+  },
+  "devDependencies": {
+    "tape": "~4.6.3"
+  }
+}
