@@ -38,11 +38,11 @@ Returns a filtered array.
 
 Type: `Array`
 
-#### key
+#### keys
 
-Type: `Array`
+Type: `Array` (optional)
 
-N length array of keys to validate against
+N length array of keys to validate against, if not passed in the library will validate every key
 
 
 ## License
